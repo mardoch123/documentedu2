@@ -1,0 +1,46 @@
+# Comment envoyer des notifications
+
+### [# Notification || EDUEASY](https://edueasy.net/notifications)
+
+#### 1. Cliquez sur "Notification" dans le menu
+
+En cliquant sur "Notification" dans le menu, vous accédez à la section dédiée à la gestion et à l'envoi des notifications au sein de votre établissement. Cette fonctionnalité vous permet de créer et de diffuser des messages instantanés à des groupes spécifiques d'utilisateurs, tels que les étudiants, les enseignants, ou l'ensemble du personnel. Vous pouvez personnaliser les notifications pour informer sur des événements importants, des rappels, des changements d'horaires, ou d'autres communications essentielles. Utiliser cette section vous aide à maintenir une communication fluide et réactive, en s'assurant que toutes les parties prenantes reçoivent les informations à temps et de manière appropriée.
+
+<figure><img src="https://images.tango.us/workflows/caa17613-c718-4d89-a151-7af1b08054d9/steps/c3b681e3-4cfa-43eb-91fe-c2ddc320454c/c301cf99-b859-4ab1-9731-d0eba049ec23.png?fm=png&#x26;crop=focalpoint&#x26;fit=crop&#x26;fp-x=0.5000&#x26;fp-y=0.5000&#x26;w=1200&#x26;border=2%2CF4F2F7&#x26;border-radius=8%2C8%2C8%2C8&#x26;border-radius-inner=8%2C8%2C8%2C8&#x26;blend-align=bottom&#x26;blend-mode=normal&#x26;blend-x=0&#x26;blend-w=1200&#x26;blend64=aHR0cHM6Ly9pbWFnZXMudGFuZ28udXMvc3RhdGljL21hZGUtd2l0aC10YW5nby13YXRlcm1hcmstdjIucG5n&#x26;mark-x=17&#x26;mark-y=568&#x26;m64=aHR0cHM6Ly9pbWFnZXMudGFuZ28udXMvc3RhdGljL2JsYW5rLnBuZz9tYXNrPWNvcm5lcnMmYm9yZGVyPTQlMkNGRjc0NDImdz0yNjUmaD02NyZmaXQ9Y3JvcCZjb3JuZXItcmFkaXVzPTEw" alt=""><figcaption></figcaption></figure>
+
+#### 2. Cliquez sur "Titre "
+
+En cliquant sur "Titre \*", vous devez saisir un titre pour la notification que vous souhaitez envoyer. Ce champ est obligatoire et doit être rempli avec un titre clair et concis qui résume le contenu ou l'objet principal de la notification. Un titre bien choisi capte l'attention des destinataires et les incite à lire le message complet. Assurez-vous que le titre reflète précisément le sujet de la notification, par exemple "Changement d'horaire de cours", "Rappel de réunion", ou "Annonce d'événement". Un bon titre facilite la compréhension immédiate du message et aide à une communication efficace.
+
+<figure><img src="https://images.tango.us/workflows/caa17613-c718-4d89-a151-7af1b08054d9/steps/c31e64e7-0fd0-484b-a403-9cf453166c34/f68dab9c-d432-4dcd-8e14-4111020ae3fe.png?fm=png&#x26;crop=focalpoint&#x26;fit=crop&#x26;fp-x=0.5000&#x26;fp-y=0.5000&#x26;w=1200&#x26;border=2%2CF4F2F7&#x26;border-radius=8%2C8%2C8%2C8&#x26;border-radius-inner=8%2C8%2C8%2C8&#x26;blend-align=bottom&#x26;blend-mode=normal&#x26;blend-x=0&#x26;blend-w=1200&#x26;blend64=aHR0cHM6Ly9pbWFnZXMudGFuZ28udXMvc3RhdGljL21hZGUtd2l0aC10YW5nby13YXRlcm1hcmstdjIucG5n&#x26;mark-x=359&#x26;mark-y=271&#x26;m64=aHR0cHM6Ly9pbWFnZXMudGFuZ28udXMvc3RhdGljL2JsYW5rLnBuZz9tYXNrPWNvcm5lcnMmYm9yZGVyPTQlMkNGRjc0NDImdz0zODQmaD01NyZmaXQ9Y3JvcCZjb3JuZXItcmFkaXVzPTEw" alt=""><figcaption></figcaption></figure>
+
+#### 3. Click on Message \*
+
+En cliquant sur "Message \*", vous devez entrer le contenu principal de la notification que vous souhaitez envoyer. Ce champ est obligatoire et permet de fournir des détails clairs et complets sur le sujet abordé dans le titre. Rédigez un message précis, informatif, et adapté au public cible pour maximiser l'impact de la communication. Assurez-vous d'inclure toutes les informations pertinentes telles que les dates, heures, lieux, et actions attendues si nécessaire. Par exemple, si vous informez d'un événement à venir, précisez l'heure et le lieu, et si une action de la part des destinataires est requise, indiquez-la clairement dans le message. Un message bien structuré et informatif contribue à une communication efficace et à une meilleure compréhension des destinataires.
+
+<figure><img src="https://images.tango.us/workflows/caa17613-c718-4d89-a151-7af1b08054d9/steps/d1dc3a26-7a0a-40c7-9de2-a16e4c3c7cec/55f4fd71-3293-491b-97b1-062ff6fe795b.png?fm=png&#x26;crop=focalpoint&#x26;fit=crop&#x26;fp-x=0.5000&#x26;fp-y=0.5000&#x26;w=1200&#x26;border=2%2CF4F2F7&#x26;border-radius=8%2C8%2C8%2C8&#x26;border-radius-inner=8%2C8%2C8%2C8&#x26;blend-align=bottom&#x26;blend-mode=normal&#x26;blend-x=0&#x26;blend-w=1200&#x26;blend64=aHR0cHM6Ly9pbWFnZXMudGFuZ28udXMvc3RhdGljL21hZGUtd2l0aC10YW5nby13YXRlcm1hcmstdjIucG5n&#x26;mark-x=756&#x26;mark-y=271&#x26;m64=aHR0cHM6Ly9pbWFnZXMudGFuZ28udXMvc3RhdGljL2JsYW5rLnBuZz9tYXNrPWNvcm5lcnMmYm9yZGVyPTQlMkNGRjc0NDImdz0zODQmaD04NCZmaXQ9Y3JvcCZjb3JuZXItcmFkaXVzPTEw" alt=""><figcaption></figcaption></figure>
+
+#### 4. Cliquez sur "Image…" (optionnel)
+
+En cliquant sur "Image…", vous avez la possibilité d'ajouter une image à votre notification, bien que cela ne soit pas obligatoire. Cette fonctionnalité vous permet d'enrichir visuellement votre message, rendant la notification plus attrayante et engageante. Vous pouvez utiliser des images pertinentes pour illustrer le sujet de la notification, comme une bannière d'événement, une photo d'illustration, ou tout autre visuel qui renforce le contenu du message. Toutefois, si l'image n'est pas nécessaire, vous pouvez passer cette étape et envoyer la notification avec uniquement le texte. Ajouter une image est un excellent moyen d'attirer l'attention, mais assurez-vous que l'image soit appropriée et ajoute de la valeur au message que vous souhaitez communiquer.
+
+<figure><img src="https://images.tango.us/workflows/caa17613-c718-4d89-a151-7af1b08054d9/steps/be719bbd-ac10-4b5e-840e-8dcc85c5d3ed/08830382-2ffd-4a16-b341-eccb39b0a9d8.png?fm=png&#x26;crop=focalpoint&#x26;fit=crop&#x26;fp-x=0.5000&#x26;fp-y=0.5000&#x26;w=1200&#x26;border=2%2CF4F2F7&#x26;border-radius=8%2C8%2C8%2C8&#x26;border-radius-inner=8%2C8%2C8%2C8&#x26;blend-align=bottom&#x26;blend-mode=normal&#x26;blend-x=0&#x26;blend-w=1200&#x26;blend64=aHR0cHM6Ly9pbWFnZXMudGFuZ28udXMvc3RhdGljL21hZGUtd2l0aC10YW5nby13YXRlcm1hcmstdjIucG5n&#x26;mark-x=349&#x26;mark-y=362&#x26;m64=aHR0cHM6Ly9pbWFnZXMudGFuZ28udXMvc3RhdGljL2JsYW5rLnBuZz9tYXNrPWNvcm5lcnMmYm9yZGVyPTQlMkNGRjc0NDImdz0yNzMmaD04NCZmaXQ9Y3JvcCZjb3JuZXItcmFkaXVzPTEw" alt=""><figcaption></figcaption></figure>
+
+#### 5. Choisir à qui vous souhaitez envoyer la notification :
+
+Lors de l'envoi d'une notification, il est important de cibler correctement les destinataires pour s'assurer que le message atteint les bonnes personnes. Voici les options disponibles :
+
+* **Tout** : Sélectionnez cette option pour envoyer la notification à tous les utilisateurs de votre plateforme, sans distinction. C'est idéal pour les annonces générales qui concernent l'ensemble de l'établissement, comme les fermetures d'école ou les événements majeurs.
+* **Utilisateurs spécifiques** : Utilisez cette option si vous souhaitez cibler des individus précis. Cela vous permet de personnaliser les notifications pour des utilisateurs particuliers en fonction de leurs besoins ou de leurs rôles spécifiques dans l'établissement.
+* **Frais en retard** : Cette option est utile pour envoyer des rappels spécifiques aux utilisateurs qui ont des paiements ou frais en retard. Cela permet de gérer efficacement les aspects financiers en ciblant uniquement les concernés.
+* **Rôles** : Choisissez cette option pour envoyer des notifications basées sur les rôles des utilisateurs, comme les enseignants, les étudiants, les administrateurs, etc. Cela permet de segmenter les communications en fonction des responsabilités et besoins des différents groupes au sein de l'établissement.
+
+En choisissant la bonne option, vous pouvez vous assurer que votre message est pertinent et atteint le bon public, ce qui améliore la communication et la gestion au sein de votre institution.
+
+<figure><img src="https://images.tango.us/workflows/caa17613-c718-4d89-a151-7af1b08054d9/steps/3cc2d132-dabb-4d2d-917c-c4964990c69e/099dacea-fb92-451f-aac7-1a9c7b4a5c39.png?fm=png&#x26;crop=focalpoint&#x26;fit=crop&#x26;fp-x=0.5000&#x26;fp-y=0.5000&#x26;w=1200&#x26;border=2%2CF4F2F7&#x26;border-radius=8%2C8%2C8%2C8&#x26;border-radius-inner=8%2C8%2C8%2C8&#x26;blend-align=bottom&#x26;blend-mode=normal&#x26;blend-x=0&#x26;blend-w=1200&#x26;blend64=aHR0cHM6Ly9pbWFnZXMudGFuZ28udXMvc3RhdGljL21hZGUtd2l0aC10YW5nby13YXRlcm1hcmstdjIucG5n&#x26;mark-x=359&#x26;mark-y=454&#x26;m64=aHR0cHM6Ly9pbWFnZXMudGFuZ28udXMvc3RhdGljL2JsYW5rLnBuZz9tYXNrPWNvcm5lcnMmYm9yZGVyPTQlMkNGRjc0NDImdz03ODImaD02NiZmaXQ9Y3JvcCZjb3JuZXItcmFkaXVzPTEw" alt=""><figcaption></figcaption></figure>
+
+#### 6. Cliquez sur soumettre pour envoyer la notification
+
+<figure><img src="https://images.tango.us/workflows/caa17613-c718-4d89-a151-7af1b08054d9/steps/29f09984-58ef-4af0-9ff0-650643d4db0a/590d20c4-16b0-4f31-959f-60fc08002857.png?fm=png&#x26;crop=focalpoint&#x26;fit=crop&#x26;fp-x=0.5000&#x26;fp-y=0.5000&#x26;w=1200&#x26;border=2%2CF4F2F7&#x26;border-radius=8%2C8%2C8%2C8&#x26;border-radius-inner=8%2C8%2C8%2C8&#x26;blend-align=bottom&#x26;blend-mode=normal&#x26;blend-x=0&#x26;blend-w=1200&#x26;blend64=aHR0cHM6Ly9pbWFnZXMudGFuZ28udXMvc3RhdGljL21hZGUtd2l0aC10YW5nby13YXRlcm1hcmstdjIucG5n&#x26;mark-x=965&#x26;mark-y=529&#x26;m64=aHR0cHM6Ly9pbWFnZXMudGFuZ28udXMvc3RhdGljL2JsYW5rLnBuZz9tYXNrPWNvcm5lcnMmYm9yZGVyPTQlMkNGRjc0NDImdz0xNzUmaD01NSZmaXQ9Y3JvcCZjb3JuZXItcmFkaXVzPTEw" alt=""><figcaption></figcaption></figure>
+
+***
