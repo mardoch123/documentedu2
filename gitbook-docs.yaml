@@ -1,0 +1,12 @@
+﻿version: 1
+
+site:
+  shortName: EduEasy
+  description: >-
+    Guide officiel d'EduEasy : 197 fiches pas a pas pour les écoles —
+    démarrage, tableau de bord, élèves, finances, examens, services,
+    applications mobiles EduStaff et EduStudent.
+
+structure:
+  readme: README.md
+  summary: SUMMARY.md
