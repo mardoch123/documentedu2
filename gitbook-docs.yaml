@@ -1,13 +1,12 @@
-﻿version: 1
-
+$schema: https://api.gitbook.com/gitbook-docs.yaml
 site:
-  title: Documentation EduEasy
-  shortName: EduEasy
-  description: >-
-    Guide officiel d'EduEasy : 197 fiches pas a pas pour les écoles —
-    démarrage, tableau de bord, élèves, finances, examens, services,
-    applications mobiles EduStaff et EduStudent.
-
-structure:
-  readme: README.md
-  summary: SUMMARY.md
+  title: EduEasy
+  structure:
+    - type: space
+      key: space-1
+      title: EduEasy
+      path: etudiants-ou-eleves
+      default: true
+      content:
+        directory: ./etudiants-ou-eleves
+        language: fr
