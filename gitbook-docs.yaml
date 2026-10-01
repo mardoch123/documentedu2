@@ -1,6 +1,7 @@
 ﻿version: 1
 
 site:
+  title: Documentation EduEasy
   shortName: EduEasy
   description: >-
     Guide officiel d'EduEasy : 197 fiches pas a pas pour les écoles —
